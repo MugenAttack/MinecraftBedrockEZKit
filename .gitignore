@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MinecraftBedrockEZKit/bin/Release
+/MinecraftBedrockEZKit/bin/Debug
+/MinecraftBedrockEZKit/obj
+/.vs
